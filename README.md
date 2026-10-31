@@ -109,3 +109,8 @@ Potentially:
 * Web data
 * Sentiment
 * Satellite/weather data where relevant
+
+
+
+
+31/10/2026 <img width="797" height="264" alt="image" src="https://github.com/user-attachments/assets/0d90fe59-7ef4-43f4-98e2-c29a2c29e08b" />
